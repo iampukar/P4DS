@@ -10,3 +10,8 @@ A curated list of resources to learn the bits and pieces relating to Python, and
     - [Python Cookbook - OREILLY](https://github.com/iampukar/P4DS/blob/main/Books/Python%20Cookbook-OREILLY.pdf)
     - [Automate The Boring Stuff With Python](https://github.com/iampukar/P4DS/blob/main/Books/Automate%20The%20Boring%20Stuff%20With%20Python.pdf)
     - [Introduction to Computation and Programming Using Python](https://github.com/iampukar/P4DS/blob/main/Books/Introduction%20to%20Computation%20and%20Programming%20Using%20Python.pdf)
+
+- [Guide](https://github.com/iampukar/P4DS#guide)
+    - [Python Basics](https://github.com/iampukar/P4DS/tree/main/Python/Basics)
+        - [Notebook](https://github.com/iampukar/P4DS/blob/main/Python/Basics/Notebook/PythonBasics.ipynb)
+        - [PDF](https://github.com/iampukar/P4DS/blob/main/Python/Basics/PDF/PythonBasics.pdf)
